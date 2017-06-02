@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "60a202e9b7763612d05b09f11109ad3c"
+build_time: [533285376, 833339000]
+inputs:
+  "/Users/SAI/Documents/ReactSampleImportProjectSwift/ios/ReactImportSampleProject/ViewController.swift": [533285175, 0]
+  "/Users/SAI/Documents/ReactSampleImportProjectSwift/ios/ReactImportSampleProject/AppDelegate.swift": [533281171, 0]

@@ -1,0 +1,6 @@
+framework module Pods_ReactImportSampleProject {
+  umbrella header "Pods-ReactImportSampleProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
